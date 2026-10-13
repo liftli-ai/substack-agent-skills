@@ -1,0 +1,38 @@
+{
+  "name": "liftli",
+  "owner": {
+    "name": "Liftli",
+    "email": "support@liftli.ai"
+  },
+  "metadata": {
+    "description": "Substack agent skills from Liftli: Notes, newsletter issues, titles and growth audits, free and MIT-licensed."
+  },
+  "plugins": [
+    {
+      "name": "substack-agent-skills",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "description": "7 free Substack agent skills by Liftli: Notes, newsletter issue outlines, titles and subject lines, a publication growth audit, LinkedIn to Substack, and a voice file every writing skill reads. They draft; you publish on Substack. MIT, no account needed.",
+      "author": {
+        "name": "Liftli",
+        "email": "support@liftli.ai",
+        "url": "https://liftli.ai"
+      },
+      "homepage": "https://liftli.ai/substack-agent-skills/",
+      "repository": "https://github.com/liftli-ai/substack-agent-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "substack",
+        "substack-notes",
+        "newsletter",
+        "substack-agent-skills",
+        "agent-skills",
+        "claude-skills",
+        "content",
+        "writing"
+      ]
+    }
+  ]
+}
