@@ -30,7 +30,7 @@ npx skills add liftli-ai/substack-agent-skills --skill substack-notes-writer
 
 ```
 /plugin marketplace add liftli-ai/substack-agent-skills
-/plugin install substack-agent-skills@liftli
+/plugin install substack-agent-skills@liftli-substack
 ```
 
 **By hand:** copy any folder under `skills/` into `~/.claude/skills/`, or
